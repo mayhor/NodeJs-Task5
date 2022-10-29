@@ -1,0 +1,24 @@
+{
+  "name": "zuri_task-introduction_to_nodejs-task",
+  "version": "1.0.0",
+  "description": "my solution to the week 5 task:intro to node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayhor/NodeJs-Task5.git"
+  },
+  "keywords": [
+    "nodejs",
+    "html",
+    "javascript"
+  ],
+  "author": "Awodire Mayowa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayhor/NodeJs-Task5/issues"
+  },
+  "homepage": "https://github.com/mayhor/NodeJs-Task5#readme"
+}
